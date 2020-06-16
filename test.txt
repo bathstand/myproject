@@ -1,0 +1,4 @@
+0
+= Integer.parseInt(String.valueOf(br.read()))
+
+= Integer.parseInt(String.valueOf(line + money))
